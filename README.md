@@ -1,5 +1,7 @@
 # 반려동물 건강기록 앱 — Figma 프로토타입 빌더
 
+https://www.figma.com/design/5XpmyeDYNLWB5nSWb28zIR/Codyssey-Project-A?node-id=0-1&t=fLicXCO05W4WLov9-1
+
 Codyssey [Project A] AI 기반 UI/UX 디자인 시안 제작
 
 이 플러그인을 실행하면 Figma 캔버스에 다음이 **한 번에** 만들어집니다.
