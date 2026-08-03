@@ -1,0 +1,9 @@
+{
+  "name": "반려동물 건강기록 프로토타입 빌더",
+  "id": "codyssey-pet-health-proto",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ]
+}
